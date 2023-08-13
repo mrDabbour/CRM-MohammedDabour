@@ -49,3 +49,4 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 ## Get sanctum token
 
 Visit `/token` page
+"# CRM-Second-Project" 
